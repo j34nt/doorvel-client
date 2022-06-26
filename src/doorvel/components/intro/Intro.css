@@ -1,0 +1,13 @@
+.img-container {
+    width: 650px;
+    height: 650px;
+    background-color: #FF7F57;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+.img-container img {
+    margin-top: 150px !important;
+}
